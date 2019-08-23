@@ -9,4 +9,4 @@ https://colab.research.google.com/github/kimo722504/practice_ML/blob/master/FILE
 이렇게 들어가면 바로 열리기도합니다.
 
 ## 그냥보기
-보려면 파일을 깃허브에서 클릭해서 보시면 됩니다.
+보려면 파일을 깃허브에서 ipynb 파일 클릭해서 보시면 됩니다.
